@@ -1,0 +1,14 @@
+html,body{
+	margin: 0px;
+	padding: 0px;
+}
+.ball{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background: cadetblue;
+	box-shadow: 0px 2px 3px #ccc;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
